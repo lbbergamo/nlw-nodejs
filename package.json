@@ -1,0 +1,8 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:lbbergamo/nlw-nodejs.git",
+  "author": "Leandro Bergamo <leandro.bergamo@hotmail.com>",
+  "license": "MIT"
+}
