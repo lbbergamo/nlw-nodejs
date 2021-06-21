@@ -6,7 +6,11 @@
   "author": "Leandro Bergamo <leandro.bergamo@hotmail.com>",
   "license": "MIT",
   "devDependencies": {
+    "@types/express": "^4.17.12",
     "@types/node": "^15.12.4",
     "typescript": "^4.3.4"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
   }
 }
