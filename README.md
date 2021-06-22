@@ -42,4 +42,10 @@ $ npm start
 
 # Roda os arquivos de testes
 $ npm test
+
+# Inicie as migrations
+$ npm run typeorm migrations:run
+
+# Remova as migration
+$ npm run typeorm migrations:revert
 ```
