@@ -4,7 +4,7 @@ export class AlterUserAddPassword1624494499474 implements MigrationInterface {
 
     public async up(queryRunner: QueryRunner): Promise<void> {
         await queryRunner.addColumn(
-            "user",
+            "users",
             new TableColumn({
                 name: "password",
                 type: "varchar",
